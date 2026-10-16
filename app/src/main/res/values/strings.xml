@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JARVIS Core</string>
+    <string name="accessibility_service_label">JARVIS Voice Automation</string>
+    <string name="accessibility_service_description">Empowers JARVIS to execute user-requested screen navigation, tap controls, scroll lists, and perform hands-free tasks authorized by you.</string>
+    <string name="channel_voice_service_name">JARVIS Background Voice Service</string>
+    <string name="channel_voice_service_desc">Displays active listening status and foreground microphone indicator.</string>
+</resources>

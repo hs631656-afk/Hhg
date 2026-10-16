@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS Core",
+  "description": "Voice-controlled Android personal assistant with real app control, system navigation, and screen interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
